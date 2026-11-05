@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-subscriptions-nextjs",
+  "capabilityKey": "liberusoftware/module-billing-subscriptions",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-billing-subscriptions-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/billing/nextjs/subscriptions.md",
+  "presentationPlan": "projects/billing/nextjs/subscriptions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
